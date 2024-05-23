@@ -1,3 +1,12 @@
+### Use Android Studio
+
+### Use androidx
+
+### Update Gradle
+
+![TempScreenshot](https://github.com/CandyTek/BTAndroidWebViewSelection/assets/39211450/0c702c21-4067-4940-a638-8126e9fe1c42)
+
+
 <p> 
 	I've Seen a lot of people trying to get user selections with a context menu working in Android web views.
 The problem lies in Android's use of an intermediate text view that it places between the user
